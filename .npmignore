@@ -1,0 +1,6 @@
+.npmignore
+.travis.yml
+appveyor.yml
+CONTRIBUTING.md
+issue_template.md
+test/
